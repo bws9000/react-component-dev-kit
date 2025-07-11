@@ -1,6 +1,6 @@
 # Vite + React Component Starter Kit
 
-A minimal monorepo setup for building and publishing reusable React components — with live local development support. A basic starting point that may save you some time or give you an interesting reference if you're going down this path.
+A minimal monorepo setup for building and publishing reusable React components with live local development support. This is a basic starting point that can help save time or serve as a useful reference for similar projects.
 
 ## Use case
 
@@ -20,7 +20,7 @@ I was developing a **component** (e.g., a login button, modal, widget) and wante
 - Monorepo-style layout using plain `npm` (no workspace manager required)
 - Build & publish ready (ESM/CJS/types)
 - TailwindCSS ready (optional)
-- React 18+, TypeScript, Storybook support (planned) ~no CRA, vite
+- React 18+, TypeScript
 - OAuth component example and demo
 
 ## Real example
